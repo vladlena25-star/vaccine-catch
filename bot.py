@@ -13,7 +13,7 @@ logging.basicConfig(
     level=logging.INFO,
 )
 
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
+TOKEN = os.getenv("8530047129:AAGKilPDhiyy0Id1LhAY3f4CABiFi1TQ8Fs")
 
 
 async def start(
